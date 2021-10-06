@@ -1,0 +1,3 @@
+Inputs/input1.txt
+Inputs/input2.txt
+Inputs/input3.txt
