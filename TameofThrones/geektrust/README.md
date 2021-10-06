@@ -14,10 +14,14 @@
         Example: java -jar geektrust.jar "inputs/inputs.txt"
 
 
-
-_File should consists of all file names which has test cases._
-
-#### **Each input file format~~:**
+#### **Each input file format:**
 
 
         AIR ROZO  -> [KINGDOM, ENCRYPTED MESSAGE]
+
+
+#### **Test Cases:**
+
+        mvn clean test
+        
+        mvn jacoco:report
